@@ -1,0 +1,1 @@
+This is the front end code for my upcoming personal website. I'm currently using React/JavaScript to produce this. (:
